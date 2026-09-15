@@ -1,4 +1,3 @@
-
 """Public exception hierarchy.
 
 Keep a small, stable set of exceptions the Home Assistant integration can map to

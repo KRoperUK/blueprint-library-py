@@ -1,4 +1,3 @@
-
 """Minimal async HTTP client skeleton."""
 
 from __future__ import annotations
